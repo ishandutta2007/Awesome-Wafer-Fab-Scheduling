@@ -1,6 +1,6 @@
 # Awesome-Wafer-Fab-Scheduling
 
-# Top Wafer Fab Scheduling Tools Ecosystem
+## Top Wafer Fab Scheduling Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Semiconductor Fab Scheduling, Advanced Planning & Scheduling (APS), Dispatching & Manufacturing Execution*
 **Last updated: August 2026**
